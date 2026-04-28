@@ -68,3 +68,8 @@ N8N, PERFEX, API, CRM, AUTOMATION
 - Inputs used: key query/body fields
 - Result: success/failure + key response facts
 - Next step: optional follow-up action
+
+## NODE SKILL CROSS REFERENCE
+- This skill is for the node Webo MCP - Perfex CRM (`perfexCrm`) from package `n8n-nodes-webo-perfex-crm-mcp`.
+- Primary node implementation reference: `PerfexCrm.node.ts` in the node repository.
+- The node description/tool guidance should mention this skill context, and this skill should be updated whenever node request behavior changes.
